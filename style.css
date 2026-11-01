@@ -50,11 +50,11 @@
     opacity: 1;
 }
  .card1 {
-    background: url("https://github.com/TalhSheikh/cards_css_and_html/blob/main/image-removebg-preview.png") center center no-repeat;
+    background: url("image-removebg-preview.png") center center no-repeat;
     background-size: 300px;
 }
  .card1:hover {
-    background: url("https://github.com/TalhSheikh/cards_css_and_html/blob/main/image-removebg-preview.png") left center no-repeat;
+    background: url("image-removebg-preview.png") left center no-repeat;
     background-size: 600px;
 }
  .card1:hover h2 {
@@ -64,11 +64,11 @@
     opacity: 1;
 }
  .card2 {
-    background: url("https://github.com/TalhSheikh/cards_css_and_html/blob/main/image-removebg-preview%20(2).png") center center no-repeat;
+    background: url("image-removebg-preview (2).png") center center no-repeat;
     background-size: 300px;
 }
  .card2:hover {
-    background: url("https://github.com/TalhSheikh/cards_css_and_html/blob/main/image-removebg-preview%20(2).png") left center no-repeat;
+    background: url("image-removebg-preview (2).png") left center no-repeat;
     background-size: 600px;
 }
  .card2:hover h2 {
